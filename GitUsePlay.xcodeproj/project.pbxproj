@@ -14,6 +14,7 @@
 		DFF65FF21E54AB2300959D09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DFF65FF01E54AB2300959D09 /* LaunchScreen.storyboard */; };
 		DFF65FFD1E54AB2300959D09 /* GitUsePlayTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFF65FFC1E54AB2300959D09 /* GitUsePlayTests.swift */; };
 		DFF660081E54AB2300959D09 /* GitUsePlayUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFF660071E54AB2300959D09 /* GitUsePlayUITests.swift */; };
+		DFF6601A1E5533E300959D09 /* NewFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFF660191E5533E300959D09 /* NewFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		DFF660031E54AB2300959D09 /* GitUsePlayUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitUsePlayUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFF660071E54AB2300959D09 /* GitUsePlayUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitUsePlayUITests.swift; sourceTree = "<group>"; };
 		DFF660091E54AB2300959D09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DFF660191E5533E300959D09 /* NewFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				DFF65FEE1E54AB2300959D09 /* Assets.xcassets */,
 				DFF65FF01E54AB2300959D09 /* LaunchScreen.storyboard */,
 				DFF65FF31E54AB2300959D09 /* Info.plist */,
+				DFF660191E5533E300959D09 /* NewFile.swift */,
 			);
 			path = GitUsePlay;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			files = (
 				DFF65FEA1E54AB2300959D09 /* ViewController.swift in Sources */,
 				DFF65FE81E54AB2300959D09 /* AppDelegate.swift in Sources */,
+				DFF6601A1E5533E300959D09 /* NewFile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -514,6 +518,7 @@
 				DFF6600E1E54AB2300959D09 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DFF6600F1E54AB2300959D09 /* Build configuration list for PBXNativeTarget "GitUsePlayTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +527,7 @@
 				DFF660111E54AB2300959D09 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DFF660121E54AB2300959D09 /* Build configuration list for PBXNativeTarget "GitUsePlayUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +536,7 @@
 				DFF660141E54AB2300959D09 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
