@@ -268,6 +268,7 @@
 				DFF65FEA1E54AB2300959D09 /* ViewController.swift in Sources */,
 				DFF660161E55338500959D09 /* MasterOnly.swift in Sources */,
 				DFF65FE81E54AB2300959D09 /* AppDelegate.swift in Sources */,
+				DFF6601A1E5533E300959D09 /* NewFile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
