@@ -15,6 +15,7 @@
 		DFF65FFD1E54AB2300959D09 /* GitUsePlayTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFF65FFC1E54AB2300959D09 /* GitUsePlayTests.swift */; };
 		DFF660081E54AB2300959D09 /* GitUsePlayUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFF660071E54AB2300959D09 /* GitUsePlayUITests.swift */; };
 		DFF660161E55338500959D09 /* MasterOnly.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFF660151E55338500959D09 /* MasterOnly.swift */; };
+		DFF6601C1E5538DE00959D09 /* Dvelopment Only file.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFF6601B1E5538DE00959D09 /* Dvelopment Only file.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		DFF660071E54AB2300959D09 /* GitUsePlayUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitUsePlayUITests.swift; sourceTree = "<group>"; };
 		DFF660091E54AB2300959D09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DFF660151E55338500959D09 /* MasterOnly.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MasterOnly.swift; sourceTree = "<group>"; };
+		DFF6601B1E5538DE00959D09 /* Dvelopment Only file.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Dvelopment Only file.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				DFF65FEB1E54AB2300959D09 /* Main.storyboard */,
 				DFF65FEE1E54AB2300959D09 /* Assets.xcassets */,
 				DFF65FF01E54AB2300959D09 /* LaunchScreen.storyboard */,
+				DFF6601B1E5538DE00959D09 /* Dvelopment Only file.swift */,
 				DFF65FF31E54AB2300959D09 /* Info.plist */,
 				DFF660151E55338500959D09 /* MasterOnly.swift */,
 			);
@@ -266,9 +269,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				DFF65FEA1E54AB2300959D09 /* ViewController.swift in Sources */,
+				DFF6601C1E5538DE00959D09 /* Dvelopment Only file.swift in Sources */,
 				DFF660161E55338500959D09 /* MasterOnly.swift in Sources */,
 				DFF65FE81E54AB2300959D09 /* AppDelegate.swift in Sources */,
-				DFF6601A1E5533E300959D09 /* NewFile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
