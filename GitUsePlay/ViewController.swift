@@ -17,9 +17,11 @@ class ViewController: UIViewController {
 
  //1. MAIN BRANCH - REMOVED MEMORY WARNING
   
+  //2. Branch into development of new feature
   //3. NewBranch entered for more development features
   
   //3a. Post merge comment
+  //4.dev edit
 
 
 }
